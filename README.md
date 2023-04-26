@@ -1,5 +1,7 @@
 # Demo
 
+Super repo pour installer des trucs cool !
+
 ## 1. Demo curl + sh
 
 ```shell

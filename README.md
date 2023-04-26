@@ -1,4 +1,4 @@
-# Demo
+# Bash + root + non root
 
 Super repo pour installer des trucs cool !
 
